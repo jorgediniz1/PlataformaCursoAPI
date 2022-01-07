@@ -1,0 +1,17 @@
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Application.deps.json
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Application.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\ref\PlataformaCursos.Application.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Application.pdb
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Domain.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Infrastructure.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Domain.pdb
+C:\IndraTeste\Back\src\PlataformaCursos.Application\bin\Debug\net5.0\PlataformaCursos.Infrastructure.pdb
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.csproj.AssemblyReference.cache
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.AssemblyInfoInputs.cache
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.AssemblyInfo.cs
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.csproj.CoreCompileInputs.cache
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.csproj.CopyComplete
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\ref\PlataformaCursos.Application.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Application\obj\Debug\net5.0\PlataformaCursos.Application.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PlataformaCursos.Persistence/1.0.0": {
+        "dependencies": {
+          "PlataformaCursos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PlataformaCursos.Persistence.dll": {}
+        }
+      },
+      "PlataformaCursos.Domain/1.0.0": {
+        "runtime": {
+          "PlataformaCursos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlataformaCursos.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlataformaCursos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

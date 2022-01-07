@@ -1,0 +1,15 @@
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\bin\Debug\net5.0\PlataformaCursos.Persistence.deps.json
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\bin\Debug\net5.0\PlataformaCursos.Persistence.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\bin\Debug\net5.0\ref\PlataformaCursos.Persistence.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\bin\Debug\net5.0\PlataformaCursos.Persistence.pdb
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.csproj.AssemblyReference.cache
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.AssemblyInfoInputs.cache
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.AssemblyInfo.cs
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.csproj.CoreCompileInputs.cache
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\ref\PlataformaCursos.Persistence.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.pdb
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\bin\Debug\net5.0\PlataformaCursos.Domain.dll
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\bin\Debug\net5.0\PlataformaCursos.Domain.pdb
+C:\IndraTeste\Back\src\PlataformaCursos.Persistence\obj\Debug\net5.0\PlataformaCursos.Persistence.csproj.CopyComplete

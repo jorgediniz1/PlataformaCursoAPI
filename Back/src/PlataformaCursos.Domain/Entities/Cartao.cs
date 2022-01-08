@@ -8,7 +8,6 @@ namespace PlataformaCursos.Domain.Entities
         public string NomeTitular { get; set; }
         public string DataVencimento { get; set; }
 
-        public int ContaId { get; set; }
         public Conta Conta { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PlataformaCursos.Domain.Entities
 {
@@ -8,8 +9,8 @@ namespace PlataformaCursos.Domain.Entities
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Senha { get; set; }
-        public int ContaId { get; set; }
         public Conta Conta { get; set; }
-        
+        public ICollection<Curso> Cursos { get; set; }
+
     }
 }

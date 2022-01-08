@@ -18,8 +18,8 @@ namespace PlataformaCursos.Infrastructure.Maps
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Status).HasColumnType("boolean"); //
 
-
-
+            builder.HasOne(x => x.Estudante).WithOne(x => x.Conta);
+       
             
         }
     }

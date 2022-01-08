@@ -13,10 +13,12 @@ namespace PlataformaCursos.Infrastructure.Maps
             
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).HasColumnName("Id").ValueGeneratedOnAdd();
-            builder.Property(x => x.Numero).HasColumnType("numeric(10)").HasMaxLength(16);
-            builder.Property(x => x.Codigo).HasColumnType("numeric(10)").HasMaxLength(3);
+            builder.Property(x => x.Numero).HasColumnType("numeric").HasMaxLength(16);
+            builder.Property(x => x.Codigo).HasColumnType("numeric").HasMaxLength(3);
             builder.Property(x => x.NomeTitular).HasColumnType("varchar(60)").HasMaxLength(60);
-            builder.Property(x => x.DataVencimento).HasColumnType("datetime");        
+            builder.Property(x => x.DataVencimento).HasColumnType("datetime");
+
+            builder.HasOne(x => x.Conta).WithMany(x => x.Cartoes).IsRequired();
                      
         }
     }

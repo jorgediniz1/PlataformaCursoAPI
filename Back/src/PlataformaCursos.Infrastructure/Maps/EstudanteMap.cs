@@ -15,6 +15,14 @@ namespace PlataformaCursos.Infrastructure.Maps
             builder.Property(x => x.Nome).HasColumnType("varchar(60)").IsRequired();
             builder.Property(x => x.Email).HasColumnType("varchar(100)").IsRequired();
             builder.Property(x => x.Senha).HasColumnType("varchar(50)").IsRequired();
+
+            builder.HasOne(x => x.Conta).WithOne(x => x.Estudante);
+            builder.HasMany(x => x.Cursos).WithMany(x => x.Estudantes);
+            
+
+            
+
+            
         }
     }
 }

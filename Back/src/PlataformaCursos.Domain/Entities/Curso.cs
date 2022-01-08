@@ -9,6 +9,7 @@ namespace PlataformaCursos.Domain.Entities
         public string Descricao { get; set; }
         public string CargaHoraria { get; set; }
         public decimal Preco { get; set; }
+
         public ICollection<Estudante> Estudantes { get; set; }
     }
 }

@@ -8,9 +8,7 @@ namespace PlataformaCursos.Domain.Entities
         public bool Status { get; set; } = false; 
        
         public ICollection<Cartao> Cartoes { get; set; }   
+        public int EstudanteId { get; set; }
         public Estudante Estudante { get; set; }
-        
-
-
     }
 }

@@ -17,9 +17,9 @@ namespace PlataformaCursos.Infrastructure.Maps
             builder.Property(x => x.Codigo).HasColumnType("numeric").HasMaxLength(3);
             builder.Property(x => x.NomeTitular).HasColumnType("varchar(60)").HasMaxLength(60);
             builder.Property(x => x.DataVencimento).HasColumnType("datetime");
-
-            builder.HasOne(x => x.Conta).WithMany(x => x.Cartoes).IsRequired();
-                     
+         
+        
+          //1:N - Conta:Cartão => CONTA  
         }
     }
 }
